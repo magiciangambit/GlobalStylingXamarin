@@ -1,0 +1,24 @@
+﻿button{
+    background-color: green;
+    corner-radius: 0;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+stacklayout > button {
+    background-color: green;
+    corner-radius: 0;
+    font-family: Arial;
+    font-weight: normal;
+    font-style:normal;
+}
+
+.HeaderButton {
+    background-color: blue;
+    corner-radius: 90;
+    font-size: medium;
+    font-family: 'Bookman Old Style';
+    font-weight: bold;
+    font-style:italic;
+    
+}
